@@ -3,6 +3,7 @@
     --primary: #FEA116;
     --light: #F1F8FF;
     --dark: #0F172B;
+    --secondary: #198754;
 }
 
 .ff-secondary {
@@ -155,7 +156,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    /* background: linear-gradient(rgba(24, 90, 57, 0.9), rgba(46, 160, 97, 0.9)), url(../img/bg-hero.jpg); */
+    background: linear-gradient(rgba(24, 90, 57, 0.9), rgba(46, 160, 97, 0.9)), url(../img/bg-hero.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
